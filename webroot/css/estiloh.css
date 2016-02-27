@@ -1,0 +1,18 @@
+#menu li {
+	display: inline-block;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	margin-right: 0.10 em;
+	padding: 1em 1.5em;
+	background: #5186d6;
+	box-shadow: inset 0px -2px 0px 0px rgba(0,0,0,0.25);
+	text-decoration: none;
+	text-shadow:01px 0px 0px #0C749C;
+	text-transform: uppercase;
+	font-size: .70em;
+	color: #FFFFFF;
+}
+
